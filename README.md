@@ -3,13 +3,9 @@
 ## 1. 기존 지도 앱의 문제점
 ![image](https://user-images.githubusercontent.com/78739536/161401678-81f87be9-95a2-438d-85ef-82f04736c0d9.png)
 
-This project is a starting point for a Flutter application.
+1. 출발지에서 도착지까지 가기 위해서 사용자가 지도 구조를 파악하면서 가야하는 불편함
+2. 지도 상에서 가는 길에 있는 건물들을 찾아보지만 잘 안 보임
+3. 화살표 켜기를 하여도 나의 위치를 잘 따라오지 못해 처음부터 다시 검색해야 하는 경우 다반사.
+4. 도착지 근처에 도착했다고 뜨지만 여러 건물들에 둘러싸여 있어 잘 보이지 않아 또 헤맨 적이 많음.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<u>즉, 사용자가 구조를 스스로 파악해야 한다는 점에서 사용자 친화적이지 못함.</u>
