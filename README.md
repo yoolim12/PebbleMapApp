@@ -1,8 +1,7 @@
-# flutter_project
+# 길치들을 위한 지도 앱 '조약돌'
 
-Pebble map application
-
-## Getting Started
+## 1. 기존 지도 앱의 문제점
+![image](https://user-images.githubusercontent.com/78739536/161401678-81f87be9-95a2-438d-85ef-82f04736c0d9.png)
 
 This project is a starting point for a Flutter application.
 
