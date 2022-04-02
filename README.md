@@ -54,7 +54,7 @@ __즉, 사용자가 구조를 스스로 파악해야 한다는 점에서 사용�
 5. 경쟁 우위: 메신저 기능을 제공하는 기업과 연동하여서 길 안내 내용을 다른 사람과 공유할 수 있도록 한다.
 
 6. 수익원: 어플 하단에 광고 or 두 정점(눈에 띄는 장소) 사이에 있는 업체가 홍보를 원하면 두 정점을 이어주는 간선에 업체 광고를 넣는다.
-![image](https://user-images.githubusercontent.com/78739536/161402616-af469b70-c5cc-4b40-86c2-25d696bf8151.png)
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/78739536/161402638-36eabb0e-16ef-43ef-9611-d04c3be62399.png">
 
 7. 비용 구조: 서버 유지 비용 및 어플 마케팅 비용
 
