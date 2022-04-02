@@ -69,4 +69,4 @@ __즉, 사용자가 구조를 스스로 파악해야 한다는 점에서 사용�
 ## 6. 앱 구현
 <img width="523" alt="image" src="https://user-images.githubusercontent.com/78739536/161403077-dfafdd4d-7c34-49f3-842c-6f967d764f51.png">
 
-## 7. 느낀 점 및 아쉬웠던 
+## 7. 느낀 점 및 아쉬웠던 점
