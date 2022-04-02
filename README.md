@@ -10,4 +10,4 @@
 
 __즉, 사용자가 구조를 스스로 파악해야 한다는 점에서 사용자 친화적이지 못함.__
 
----
+<img width="484" alt="image" src="https://user-images.githubusercontent.com/78739536/161401960-05d6ded2-c066-49f6-8013-ce4644a3c7ab.png">
