@@ -1,6 +1,6 @@
 # __길치들을 위한 지도 앱 '조약돌'__
 
-# 보다 더 자세한 정보는 ProjectInfo 폴더 내의 자료들을 참고할 수 있습니다!
+# 시연 영상 및 보다 더 자세한 정보는 ProjectInfo 폴더 내의 자료들을 참고할 수 있습니다!
 
 ## 1. 기존 지도 앱의 문제점
 ![image](https://user-images.githubusercontent.com/78739536/161401678-81f87be9-95a2-438d-85ef-82f04736c0d9.png)
