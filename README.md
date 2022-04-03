@@ -1,6 +1,6 @@
 # __길치들을 위한 지도 앱 '조약돌'__
 
-# 발표 자료 및 포 ProjectInfo 폴더 내의 자료들을 참고할 수 있습니다!
+# 발표 자료 및 포스터는 ProjectInfo 폴더 내의 자료들을 참고할 수 있습니다!
 
 ## 1. 기존 지도 앱의 문제점
 ![image](https://user-images.githubusercontent.com/78739536/161401678-81f87be9-95a2-438d-85ef-82f04736c0d9.png)
