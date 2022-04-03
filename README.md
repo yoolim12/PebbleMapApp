@@ -1,6 +1,6 @@
 # __길치들을 위한 지도 앱 '조약돌'__
 
-# 발표 자료 및  ProjectInfo 폴더 내의 자료들을 참고할 수 있습니다!
+# 발표 자료 및 포 ProjectInfo 폴더 내의 자료들을 참고할 수 있습니다!
 
 ## 1. 기존 지도 앱의 문제점
 ![image](https://user-images.githubusercontent.com/78739536/161401678-81f87be9-95a2-438d-85ef-82f04736c0d9.png)
@@ -76,8 +76,7 @@ __즉, 사용자가 구조를 스스로 파악해야 한다는 점에서 사용�
 <img width="523" alt="image" src="https://user-images.githubusercontent.com/78739536/161403077-dfafdd4d-7c34-49f3-842c-6f967d764f51.png">
 
 ## 7. 시연 영상
-![시연영상](https://user-images.githubusercontent.com/78739536/161406167-95b2eaa2-b3f2-47ad-805a-06c3b49976cb.gif)
-
+![시연영상2](https://user-images.githubusercontent.com/78739536/161406339-c7fabafe-18d6-46ff-b9ae-acb62e9c0ac8.gif)
 
 ## 8. 느낀 점 및 아쉬웠던 점
 새로운 언어를 단기간에 배워 프로젝트에 적용한다는 것이 생각보다 많이 힘든 일이라는 것을 깨닫게 되었다.
